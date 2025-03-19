@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravi</h1>
+<h1 align="center">Ravi</h1>
 <h3 align="center">Thinker/Executer Behind the Code.</h3>
 
 - 🌱 I’m currently learning to **write scalable,maintainable and efficient code.**
