@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [http://localhost:3000](http://localhost:3000)
 
-- 💬 Ask me for **Date**
-
 - 📫 How to reach me **r28344254@gmail.com**
 
 <p align="left">
