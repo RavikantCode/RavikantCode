@@ -92,14 +92,7 @@ Built a full-stack platform handling exam scheduling, seating arrangement, and f
 
 ---
 
-## Hackathons
-
-- **Google Generative AI Hackathon** — Built AI-driven solutions for real organizational problem statements
-- **Hacker Frost Hackathon** — Rapid prototyping under strict time constraints
-
----
-
 <div align="center">
-  <sub>B.E. Information Technology · University of Mumbai (2022–Present) · CGPA 7.46</sub><br/>
+  <sub>B.E. Information Technology · University of Mumbai (2022–Present)</sub><br/>
   <sub>Open to full-time software engineering roles</sub>
 </div>
