@@ -93,6 +93,5 @@ Built a full-stack platform handling exam scheduling, seating arrangement, and f
 ---
 
 <div align="center">
-  <sub>B.E. Information Technology · University of Mumbai (2022–Present)</sub><br/>
   <sub>Open to full-time software engineering roles</sub>
 </div>
