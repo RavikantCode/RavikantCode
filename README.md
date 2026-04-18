@@ -9,8 +9,8 @@
 <br/>
 
 [![Gmail](https://img.shields.io/badge/ravikantyadav939@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ravikantyadav939@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikant-yadav01/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RavikantCode)
 ![Location](https://img.shields.io/badge/Mumbai,_India-555?style=flat-square)
 
 </div>
@@ -43,17 +43,17 @@ Built a full-stack platform handling exam scheduling, seating arrangement, and f
 
 **Stack** — Next.js · TypeScript · Prisma · Python · Docker
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/examease)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RavikantCode/ExamEase)
 
 ---
 
 ## Other work
 
 **Roadmap Generator** — AI career guidance system using a PyTorch model trained on skill-to-career datasets. Sub-2-second recommendations across 12+ technical paths with live job-market signals.  
-`Next.js` `TypeScript` `PyTorch` `Prisma` · [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/roadmap-generator)
+`Next.js` `TypeScript` `PyTorch` `Prisma` · [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RavikantCode/RoadMap_generator)
 
 **SmartHire** — End-to-end college recruitment platform. Replaced manual T&P Office workflows with automated shortlisting, email notifications, and role-based access — reducing coordination effort by ~60%.  
-`Node.js` `Express.js` `MongoDB` `Tailwind CSS` · [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/smarthire)
+`Node.js` `Express.js` `MongoDB` `Tailwind CSS` · [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RavikantCode/SmartHire)
 
 ---
 
