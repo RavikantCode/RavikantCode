@@ -7,9 +7,7 @@
 
 - 🤝 I’m looking for help with **Devops**
 
-- 👨‍💻 All of my projects are available at [http://localhost:3000](http://localhost:3000)
-
-- 📫 How to reach me **r28344254@gmail.com**
+- 📫 How to reach me **ravikantyadav939@gmail.com**
 
 <p align="left">
 </p>
