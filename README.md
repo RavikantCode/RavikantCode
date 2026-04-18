@@ -40,7 +40,11 @@
 > Automated academic exam management using a custom genetic algorithm
 
 Built a full-stack platform handling exam scheduling, seating arrangement, and faculty remuneration for **50+ courses** and **1,000+ concurrent students**. The core engine uses a genetic algorithm I designed from scratch — achieving **95% collision-free timetable generation**.
+
+*Here is the Small Glimpse of the Product*.
+
 ![ExamEase](./assets/exam-ease-preview.png)
+
 **Stack** — Next.js · TypeScript · Prisma · Python · Docker
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RavikantCode/ExamEase)
