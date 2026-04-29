@@ -4,7 +4,7 @@
 
 **Full-Stack Engineer** · Next.js · TypeScript · Node.js · Python
 
-*I build AI-powered systems that solve real problems at scale.*
+*I build production-grade systems that solve real institutional problems.
 
 <br/>
 
