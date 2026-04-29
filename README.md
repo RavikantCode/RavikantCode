@@ -2,7 +2,7 @@
 
 # Ravikant Yadav
 
-**Full-Stack AI Engineer** · Next.js · TypeScript · Node.js · Python
+**Full-Stack Engineer** · Next.js · TypeScript · Node.js · Python
 
 *I build AI-powered systems that solve real problems at scale.*
 
