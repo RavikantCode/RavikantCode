@@ -11,7 +11,9 @@
 [![Gmail](https://img.shields.io/badge/ravikantyadav939@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ravikantyadav939@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikant-yadav01/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RavikantCode)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://ravikantyadav.me)
 ![Location](https://img.shields.io/badge/Mumbai,_India-555?style=flat-square)
+
 
 </div>
 
