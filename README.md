@@ -45,7 +45,7 @@ Built a full-stack platform handling exam scheduling, seating arrangement, and f
 
 *Here is the Small Glimpse of the Product*.
 
-![ExamEase](./assets/exam-ease-preview.png)
+![ExamEase](./assets/exam_ease_preview.png)
 
 **Stack** — Next.js · TypeScript · Prisma · Python · Docker
 
